@@ -1,0 +1,9 @@
+Item Blocker is a simple mod that allows you to block what items enter your inventory during play!
+
+Assign 2 hotkeys:
+- Add
+- Remove
+
+In your inventory, press either of these keys to add or remove an item from a list of items you don't want entering your inventory!
+
+There is a config for the mod where you can remove and add items even if they aren't in your inventory.

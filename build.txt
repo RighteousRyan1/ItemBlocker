@@ -1,0 +1,3 @@
+displayName = Item Blocker
+author = RighteousRyan (Ryan)
+version = 1.0
